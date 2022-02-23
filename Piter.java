@@ -7,4 +7,12 @@ public class Piter {
     public void aboutPiter() {
         System.out.println(name + growth + age);
     }
+	
+	public void newManNameZakOtherDeveloper(){
+	}
+	
+	public void someNewManOtherDeveloper(){
+		System.out.println(name + growth + hair + age)
+		{
+		
 }
