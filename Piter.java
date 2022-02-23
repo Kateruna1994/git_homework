@@ -1,5 +1,5 @@
 public class Piter {
-    int age = 10;
+    int age = 25;
     int growth = 165;
     String name = "Piter";
 
